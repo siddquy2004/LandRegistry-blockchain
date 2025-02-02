@@ -36,7 +36,7 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 ## 📩 Contributions & Contact  
 Feel free to contribute by opening **issues** or submitting **pull requests**.  
 
-🔗 **GitHub Repository**: [your-repo-link](https://github.com/your-username/land-registry-blockchain)  
-📧 **Email**: your-email@example.com  
+🔗 **GitHub Repository**: [https://github.com/siddquy2004/LandRegistry-blockchain.git)  
+📧 **Email**: siddquy2004@gmail.com
 
 🚀 *Join us in creating a transparent future with blockchain technology!*  
