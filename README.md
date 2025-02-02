@@ -1,24 +1,24 @@
-🏡 Decentralized Land Registry
-A Blockchain-based System for Secure and Transparent Property Management
+#🏡 Decentralized Land Registry
+###A Blockchain-based System for Secure and Transparent Property Management
 🔗 Built using Ethereum, Solidity, Truffle, Web3.js, and MetaMask
 
-🌟 Overview
+##🌟 Overview
 The Decentralized Land Registry application utilizes the power of blockchain to offer a secure and transparent method for managing land ownership records. This system ensures that all transactions are immutable and verifiable, preventing fraudulent activities in property dealings.
 
-✨ Key Features
+##✨ Key Features
 Blockchain-Based Ownership: Immutable records stored on Ethereum blockchain
 Smart Contract Automation: Automates the land registration process
 MetaMask Authentication: User-friendly MetaMask wallet integration for secure login
 Web3.js Connectivity: Frontend linked to Ethereum blockchain through Web3.js
 Development Testing with Truffle & Ganache: Local Ethereum blockchain for easy testing
 
-🛠 Technology Stack
-Component	Technology Used
-Smart Contracts	Solidity
-Blockchain	Ethereum, Ganache
-Development Tools	Remix IDE, Truffle
-Frontend Integration	Web3.js
-Wallet Integration	MetaMask
+##🛠 Technology Stack
+- Smart Contracts: Solidity
+- Blockchain: Ethereum, Ganache
+- Development Tools: Remix IDE, Truffle
+- Frontend Integration: Web3.js
+- Wallet Integration: MetaMask
+
 🚀 Installation Guide
 1️⃣ Clone the Repository
 bash
