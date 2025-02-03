@@ -26,6 +26,9 @@ The **Decentralized Land Registry** application utilizes the power of blockchain
 - **Frontend Integration**: Web3.js  
 - **Wallet Integration**: MetaMask  
 
+## Result
+https://raw.githubusercontent.com/siddquy2004/LandRegistry-blockchain/main/images/6.png
+
 ---
 
 ## 📜 License  
